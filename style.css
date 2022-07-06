@@ -1,0 +1,213 @@
+Mosiur Zaman
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Poppins', sans-serif;
+
+}
+.header{
+	background-image: url(images/donation5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.heading-text{
+    max-width:70%;
+    margin: auto;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+    text-transform: capitalize;
+    color: white;
+	
+}
+
+h1{
+	font-size:60px;
+	font-weight: 700;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+p{
+font-size: 20px;
+text-align: center;
+text-transform: capitalize;
+
+}
+
+.link-button{
+	text-decoration: none;
+	padding: 12px 45px;
+	background-color: tomato;
+	color: white;
+	border-radius: 5px;
+	text-transform: capitalize;
+	font-size: 20px;
+	font-weight: 700;
+
+}
+
+.part2{
+	height: 90vh;
+
+
+}
+.tittle-text{
+	text-align: center;
+	margin: auto;
+	max-width: 700px;
+	margin-top: 100px;
+
+}
+.flex-box{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	 
+}
+.divition{
+	font-size: 30px;
+	padding: 30px 30px;
+	background-color: azure;
+	margin-top: 30px;
+	margin-right: 15px;
+	border-radius: 5px;
+	font-weight: 700;
+}
+.change{
+	background-color: white;
+	border: 2px solid tomato;
+	color: tomato;
+	
+}
+
+form{
+	text-align: center;
+	margin-top: 50px;
+
+}
+
+.part2 input{
+	padding: 20px 250px;
+	border: none;
+	border-bottom: 2px solid gray;
+	font-size: 20px;
+	text-transform: capitalize;
+	outline: none;
+
+}
+
+.extra-margin{
+	margin-top: 60px;
+	margin-right: 3%;
+
+}
+
+.box{
+	width: 290px;
+	height:300px;
+	border-radius: 5px;
+	text-transform: capitalize;
+	margin: 50px 15px;
+	background-color: navajowhite;
+
+}
+
+.box-1{
+	background-color: azure;
+}
+
+.box-3{
+	background-color:#ffff9f ;
+}
+
+.box p{
+	font-size: 13px;
+	text-align: left;
+	font-weight: 700;
+}
+
+.box img{
+	margin-top: 25px;
+	padding-top: 30px;
+	padding-left: 15px;
+}
+.box h2,.box p{
+	padding:0 15px;
+}
+.gellary h1{
+	font-size: 40px;
+}
+.images{
+	max-width: 1500px;
+	margin: auto;
+	height: 600px;
+}
+.images span{
+	width: 300px;
+	height: 400px;
+	margin-right: 20px;
+	
+}
+.images img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 5px;
+
+}
+
+.updates{
+	height: 70vh;
+}
+.email-box{
+	
+    width: 65%;
+    display: block;
+    margin: 60px 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 45px;
+    background-color: #ffff9f;
+
+}
+.email-box input{
+	border: none;
+	padding: 12px 50px;
+	background-color: #d2dae2;
+	font-size: 20px;
+	outline: none;
+	
+}
+
+.extra{
+
+	padding-bottom: 45px;
+	margin-left: 20%;
+    display: flex;
+	
+}
+
+footer{
+	margin-top: 50px;
+	background-color:#000000;
+	color: #fff;
+}
+
+footer .flex-box{
+	flex-direction: column;
+}
+
+
+footer h2 span{
+	text-transform: capitalize;
+	padding-bottom: 10px;
+	font-family: cursive;
+	font-size: 25px;
+	color: tomato;
+	
+}
